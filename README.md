@@ -13,13 +13,7 @@ Java笔记整理
  'Hello word'
  
  '''
-  public static void bobbleSort(int arr[]){
-   for(int i = arr.length ; i>0 ; i--){
-    for(int j = 0 ; j<i ; j++){
-     System.out.println("Hello word");
-    }
-   }
-  }
+  public 
  '''
  
 ###### 面试技巧
