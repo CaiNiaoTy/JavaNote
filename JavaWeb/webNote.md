@@ -15,6 +15,9 @@ tomcat下配置环境变量：catalina_home 默认端口号为：8080 （容易�
     - web.xml
 
 welcome-file-list 
+  
   welcom-file 
+  
 welcome-file-list
+
 指定当前访问当前项目的第一个页面。
